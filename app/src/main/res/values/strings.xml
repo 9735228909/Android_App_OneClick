@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android App OneClick</string>
+    <string name="enter_numbers_for_textbox1">Enter numbers for TextBox1</string>
+    <string name="enter_numbers_for_textbox2">Enter numbers for TextBox2</string>
+    <string name="enter_numbers_for_textbox3">Enter numbers for TextBox3</string>
+    <string name="calculate">Calculate</string>
+</resources>
